@@ -5,7 +5,7 @@ function Transparency() {
     <section className="px-4 py-16 bg-gray-50">
       <div className="max-w-4xl mx-auto">
         <h2 className="text-3xl md:text-4xl font-bold text-center text-gray-900 mb-12">
-          透明性とカスタマイズ性
+          シンプルで経済的なデータ管理
         </h2>
         <div className="bg-white rounded-2xl p-8 shadow-md">
           <div className="flex items-start gap-4 mb-6">
