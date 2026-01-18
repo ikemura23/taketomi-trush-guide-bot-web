@@ -2,6 +2,7 @@ import Hero from './components/Hero'
 import Features from './components/Features'
 import HowToUse from './components/HowToUse'
 import Transparency from './components/Transparency'
+import Footer from './components/Footer'
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <Features />
       <HowToUse />
       <Transparency />
+      <Footer />
     </div>
   )
 }
