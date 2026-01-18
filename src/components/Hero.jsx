@@ -6,9 +6,9 @@ function Hero() {
       <div className="max-w-4xl mx-auto text-center">
         <div className="mb-8 flex justify-center">
           <img
-            src="/assets/chatbot-icon.png"
-            alt="チャットボットアイコン"
-            className="w-32 h-32 md:w-40 md:h-40 rounded-full object-cover"
+            src="/assets/chatbot-image.png"
+            alt="チャットボットキャラクター"
+            className="w-64 md:w-96 aspect-video object-cover"
           />
         </div>
         <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4">
