@@ -6,14 +6,14 @@ function HowToUse() {
       icon: Type,
       title: 'テキストで送信',
       description: 'ゴミの名前をテキストで送信してください。例：ペットボトル、モバイルバッテリー、使い捨てカイロ',
-      image: '/assets/text-example.png',
+      image: '/assets/text-example.jpg',
       imageAlt: 'テキスト送信のデモ画面',
     },
     {
       icon: Image,
       title: '画像で送信',
       description: 'ゴミの写真を撮影して送信してください。AIが画像を認識して分別方法を回答します。',
-      image: '/assets/image-recognition-example2.png',
+      image: '/assets/image-recognition-example2.jpg',
       imageAlt: '画像認識のデモ画面',
     },
   ]

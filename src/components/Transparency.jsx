@@ -35,7 +35,7 @@ function Transparency() {
           </div>
           <div className="mb-6">
             <img
-              src="/assets/spreadsheet.png"
+              src="/assets/spreadsheet.jpg"
               alt="スプレッドシートでのゴミ分別マスタデータ管理画面"
               className="w-full rounded-lg shadow-sm border border-gray-200"
             />
