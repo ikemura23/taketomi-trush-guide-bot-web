@@ -22,15 +22,25 @@ function Transparency() {
               </p>
             </div>
           </div>
+          <div className="mb-6">
           <a
             href="https://docs.google.com/spreadsheets/d/1BYFBVFjkuNDHe0Z3uk1sHfROG7b1L9f21rkFcP4gJfo/edit?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
-            className="inline-flex items-center gap-2 text-[#059669] hover:text-[#047857] font-semibold transition-colors"
+            className="inline-flex items-center gap-2 text-lg text-[#059669] hover:text-[#047857] font-semibold transition-colors"
           >
-            <FileSpreadsheet size={20} />
+            <FileSpreadsheet size={24} />
             デモ用データを見る
           </a>
+          </div>
+          <div className="mb-6">
+            <img
+              src="/assets/spreadsheet.png"
+              alt="スプレッドシートでのゴミ分別マスタデータ管理画面"
+              className="w-full rounded-lg shadow-sm border border-gray-200"
+            />
+          </div>
+
         </div>
       </div>
     </section>
