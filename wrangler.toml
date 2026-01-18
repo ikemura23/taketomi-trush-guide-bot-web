@@ -1,5 +1,8 @@
 name = "taketomi-trush-guide-bot-web"
 compatibility_date = "2024-01-01"
 
+[assets]
+directory = "./dist"
+
 [env.production]
 name = "taketomi-trush-guide-bot-web"
