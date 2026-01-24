@@ -5,17 +5,17 @@ function Features() {
     {
       icon: Zap,
       title: '即時回答',
-      description: 'ゴミの名前を送るだけで、AIが分別方法を秒速回答。',
+      description: 'ゴミの名前を送るだけで、AIが分別方法を秒速で回答します。',
     },
     {
       icon: Brain,
       title: '高い推論能力',
-      description: '「これどう捨てる？」といった曖昧な質問も AI が理解。',
+      description: '「これどう捨てる？」といった曖昧な質問も AI が理解します。',
     },
     {
       icon: Database,
       title: '最新データ',
-      description: 'スプレッドシート連携により、常に最新の自治体ルールを反映。',
+      description: 'スプレッドシート連携により、常に最新の自治体ルールを反映します。',
     },
   ]
 
