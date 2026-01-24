@@ -12,7 +12,7 @@ function Hero() {
           />
         </div>
         <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4">
-          島のごみを、もっと正しく、もっと楽に。
+          竹富町ごみ分別ガイド（非公式）
         </h1>
         <p className="text-lg md:text-xl text-gray-600 mb-8">
           最新AIが、24時間いつでもあなたの分別の悩みを解決します。
