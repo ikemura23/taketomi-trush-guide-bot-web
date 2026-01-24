@@ -11,6 +11,9 @@ function Footer() {
             <p className="text-gray-400 mb-2">
               © {currentYear} 竹富町ごみ分別ガイドボット
             </p>
+            <p className="text-gray-400 text-sm mb-1">
+              このプロジェクトは竹富町公式ではなく、個人が作成した非公式プロジェクトです。
+            </p>
             <p className="text-gray-400">
               開発者: <span className="text-white font-semibold">Kazutaka Ikemura</span>
             </p>
